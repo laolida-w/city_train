@@ -1,0 +1,13 @@
+CUDA_VISIBLE_DEVICES=0 llamafactory-cli chat \  
+    --model_name_or_path /home/wyh/dataset/models/swift/llava-1.5-7b-hf \  
+    --adapter_name_or_path /home/wyh/LLaMA-Factory/output  \  
+    --infer_backend: huggingface  # choices: [huggingface, vllm]
+    --trust_remote_code: true
+
+CUDA_VISIBLE_DEVICES=0 llamafactory-cli chat \  
+    --model_name_or_path:/home/wyh/dataset/models/LLM-Research/Meta-Llama-3-8B-Instruct \
+    --template:lama3 
+
+CUDA_VISIBLE_DEVICES=0 llamafactory-cli webchat \  
+    --model_name_or_path /media/codingma/LLM/llama3/Meta-Llama-3-8B-Instruct \  
+    --template llama3

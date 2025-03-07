@@ -1,0 +1,1100 @@
+[
+  {
+    "image_id": "00000000",
+    "width": 1920,
+    "height": 1080,
+    "source": "egova",
+    "pixel_classes": {},
+    "bboxes": [
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          112,
+          1031,
+          403,
+          1080
+        ],
+        "region_description": "A disorderly pile of items, including bags, boxes, and debris, is scattered on the sidewalk, creating a cluttered appearance.",
+        "dual_question": "Can you detect the cluttered pile of items on the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1,
+          992,
+          128,
+          1079
+        ],
+        "region_description": "A disorderly pile of items, including bags, boxes, and debris, obstructs the sidewalk, posing a hazard to pedestrians. The surrounding area is also cluttered.",
+        "dual_question": "Can you detect the pile of bags, boxes, and debris on the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          759,
+          457,
+          922,
+          513
+        ],
+        "region_description": "A disorderly pile of items, including boxes, bags, and debris, is stacked haphazardly, creating a cluttered and disorganized appearance. This pile could pose a tripping hazard or obstruct pedestrian pathways.",
+        "dual_question": "Can you detect the disorderly pile of boxes, bags, and debris?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1107,
+          439,
+          1157,
+          524
+        ],
+        "region_description": "A disorderly pile of items is on the sidewalk near the street, close to trees and a fence. The pile includes miscellaneous objects, possibly trash or discarded items, suggesting issues with waste management or littering.",
+        "dual_question": "Can you detect the disorderly pile of items on the sidewalk near trees?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          395,
+          749,
+          428,
+          806
+        ],
+        "region_description": "A disorderly pile of items is stacked haphazardly near a shop entrance, causing obstruction and contributing to clutter and disorganization in the area. This may affect the street's appearance and pose a minor inconvenience or hazard to pedestrians.",
+        "dual_question": "Can you detect the disorderly pile obstructing the shop entrance?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          416,
+          743,
+          451,
+          772
+        ],
+        "region_description": "A disorderly pile of miscellaneous objects, including bags and boxes, sits on the sidewalk, potentially obstructing pedestrian movement and creating an untidy appearance. The surrounding area is quiet with few people or activities.",
+        "dual_question": "Can you detect the disorderly pile of objects on the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          112,
+          1031,
+          403,
+          1080
+        ],
+        "region_description": "A disorderly pile of items, including bags, boxes, and debris, is scattered on the sidewalk, creating a cluttered appearance.",
+        "dual_question": "Can you detect the cluttered pile of items on the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1,
+          992,
+          128,
+          1079
+        ],
+        "region_description": "A disorderly pile of items, including bags, boxes, and debris, obstructs the sidewalk, posing a hazard to pedestrians. The surrounding area is also cluttered.",
+        "dual_question": "Can you detect the pile of bags, boxes, and debris on the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          759,
+          457,
+          922,
+          513
+        ],
+        "region_description": "A disorderly pile of items, including boxes, bags, and debris, is stacked haphazardly, creating a cluttered and disorganized appearance. This pile could pose a tripping hazard or obstruct pedestrian pathways.",
+        "dual_question": "Can you detect the disorderly pile of boxes, bags, and debris?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1107,
+          439,
+          1157,
+          524
+        ],
+        "region_description": "A disorderly pile of items is on the sidewalk near the street, close to trees and a fence. The pile includes miscellaneous objects, possibly trash or discarded items, suggesting issues with waste management or littering.",
+        "dual_question": "Can you detect the disorderly pile of items on the sidewalk near trees?"
+      }
+    ],
+    "image_description": "The image is a black and white surveillance camera shot of a street scene. On the left side, there is a row of shops with closed shutters and a few parked motorcycles. A person is standing near the shops. The right side of the image shows a sidewalk lined with trees and a parked three-wheeled vehicle. The street is relatively empty, with a few scattered items and a small cart. The scene appears to be captured early in the morning, as indicated by the timestamp.",
+    "question_answer": [
+      {
+        "question": "What time of day does the image appear to be taken?",
+        "answer": "The image appears to be taken early in the morning, as indicated by the timestamp."
+      },
+      {
+        "question": "What is the general condition of the shops on the left side of the image?",
+        "answer": "The shops on the left side of the image have closed shutters, suggesting they are not open for business at the time the image was captured."
+      },
+      {
+        "question": "How many motorcycles are parked near the shops?",
+        "answer": "There are a few parked motorcycles near the shops."
+      },
+      {
+        "question": "Is there a person visible in the image, and if so, what are they doing?",
+        "answer": "Yes, there is a person visible in the image. They are standing near the shops."
+      },
+      {
+        "question": "What type of vehicle is parked on the right side of the image?",
+        "answer": "A three-wheeled vehicle is parked on the right side of the image."
+      },
+      {
+        "question": "Describe the condition of the street.",
+        "answer": "The street is relatively empty, with a few scattered items and a small cart."
+      },
+      {
+        "question": "Are there any trees visible in the image?",
+        "answer": "Yes, there are trees lining the sidewalk on the right side of the image."
+      },
+      {
+        "question": "What is the overall atmosphere of the scene?",
+        "answer": "The overall atmosphere of the scene is quiet and still, likely due to the early morning time and the closed shops."
+      },
+      {
+        "question": "Is there any indication of recent activity on the street?",
+        "answer": "There are a few scattered items and a small cart, which might indicate some recent activity, but the street is generally empty and quiet."
+      },
+      {
+        "question": "What can be inferred about the time of day based on the lighting and shadows in the image?",
+        "answer": "The lighting and shadows suggest that it is early morning, as the light appears to be soft and the shadows are not very pronounced."
+      }
+    ],
+    "grounded_caption": "A black and white surveillance camera captures a serene yet cluttered street scene early in the morning. On the left side, a row of shops with closed shutters lines the street, and a few motorcycles are parked nearby. A solitary figure stands close to the shops. The right side of the image features a sidewalk lined with trees and a parked three-wheeled vehicle. The street itself is mostly empty but dotted with a few scattered items and a small cart.\n\nSeveral <event>disorderly piles</event><bbox>112 1031 403 1080</bbox> of items, including bags, boxes, and debris, are scattered on the sidewalk, creating a cluttered appearance. Another <event>disorderly pile</event><bbox>1 992 128 1079</bbox> of similar items obstructs the sidewalk, posing a hazard to pedestrians. The surrounding area is also cluttered. Further along, a <event>disorderly pile</event><bbox>759 457 922 513</bbox> of boxes, bags, and debris is stacked haphazardly, adding to the disorganized look and potentially obstructing pedestrian pathways. Near the street, close to trees and a fence, another <event>disorderly pile</event><bbox>1107 439 1157 524</bbox> of miscellaneous objects, possibly trash or discarded items, suggests issues with waste management or littering.\n\nCloser to a shop entrance, a <event>disorderly pile</event><bbox>395 749 428 806</bbox> of items is stacked haphazardly, causing obstruction and contributing to the area's untidiness. A smaller <event>disorderly pile</event><bbox>416 743 451 772</bbox> of miscellaneous objects, including bags and boxes, sits on the sidewalk, potentially obstructing pedestrian movement and adding to the untidy appearance. The overall scene reflects a mix of tranquility and neglect, with the disorderly piles being the most prominent feature."
+  },
+  {
+    "image_id": "00000001",
+    "width": 1920,
+    "height": 1080,
+    "source": "egova",
+    "pixel_classes": {},
+    "bboxes": [
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1073,
+          413,
+          1181,
+          521
+        ],
+        "region_description": "Disorderly pile on a narrow sidewalk near a shop entrance, consisting of bicycles and possibly other small items or debris, clustered around a utility box or signpost. The pile takes up significant space on the sidewalk in a commercial area with various shops and signs. The image shows a clear, sunny day.",
+        "dual_question": "Can you detect the disorderly pile near the shop entrance?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          828,
+          459,
+          921,
+          510
+        ],
+        "region_description": "A blue vehicle or cart is parked on the sidewalk, creating a disorderly pile that obstructs pedestrian access. The surrounding area is clear, but the placement is disorganized.",
+        "dual_question": "Can you detect the blue vehicle blocking the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          385,
+          734,
+          418,
+          808
+        ],
+        "region_description": "Disorderly pile of items near a shop entrance, including boxes, bags, and other miscellaneous objects, suggesting a lack of organization and potentially obstructing the pathway.",
+        "dual_question": "Can you detect the disorderly pile of items near the shop entrance?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1073,
+          413,
+          1181,
+          521
+        ],
+        "region_description": "Disorderly pile on a narrow sidewalk near a shop entrance, consisting of bicycles and possibly other small items or debris, clustered around a utility box or signpost. The pile takes up significant space on the sidewalk in a commercial area with various shops and signs. The image shows a clear, sunny day.",
+        "dual_question": "Can you detect the disorderly pile near the shop entrance?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          828,
+          459,
+          921,
+          510
+        ],
+        "region_description": "A blue vehicle or cart is parked on the sidewalk, creating a disorderly pile that obstructs pedestrian access. The surrounding area is clear, but the placement is disorganized.",
+        "dual_question": "Can you detect the blue vehicle blocking the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          385,
+          734,
+          418,
+          808
+        ],
+        "region_description": "Disorderly pile of items near a shop entrance, including boxes, bags, and other miscellaneous objects, suggesting a lack of organization and potentially obstructing the pathway.",
+        "dual_question": "Can you detect the disorderly pile of items near the shop entrance?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1073,
+          413,
+          1181,
+          521
+        ],
+        "region_description": "Disorderly pile on a narrow sidewalk near a shop entrance, consisting of bicycles and possibly other small items or debris, clustered around a utility box or signpost. The pile takes up significant space on the sidewalk in a commercial area with various shops and signs. The image shows a clear, sunny day.",
+        "dual_question": "Can you detect the disorderly pile near the shop entrance?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          828,
+          459,
+          921,
+          510
+        ],
+        "region_description": "A blue vehicle or cart is parked on the sidewalk, creating a disorderly pile that obstructs pedestrian access. The surrounding area is clear, but the placement is disorganized.",
+        "dual_question": "Can you detect the blue vehicle blocking the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          385,
+          734,
+          418,
+          808
+        ],
+        "region_description": "Disorderly pile of items near a shop entrance, including boxes, bags, and other miscellaneous objects, suggesting a lack of organization and potentially obstructing the pathway.",
+        "dual_question": "Can you detect the disorderly pile of items near the shop entrance?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1073,
+          413,
+          1181,
+          521
+        ],
+        "region_description": "Disorderly pile on a narrow sidewalk near a shop entrance, consisting of bicycles and possibly other small items or debris, clustered around a utility box or signpost. The pile takes up significant space on the sidewalk in a commercial area with various shops and signs. The image shows a clear, sunny day.",
+        "dual_question": "Can you detect the disorderly pile near the shop entrance?"
+      }
+    ],
+    "image_description": "The image shows a street scene with several shops lining the left side. The storefronts have colorful signs and awnings, and there are various items and displays outside the shops. A few people are walking along the sidewalk, and there are some motorbikes and a small blue vehicle parked on the right side of the street. Trees provide shade on the right, and the overall atmosphere appears calm and typical of a small urban area.",
+    "question_answer": [
+      {
+        "question": "What types of shops are visible in the image?",
+        "answer": "The image shows a variety of shops, including a supermarket and other retail stores. The shops have colorful signs and awnings, indicating a diverse range of businesses."
+      },
+      {
+        "question": "How many people are visible in the image?",
+        "answer": "There are a few people visible in the image. Some are walking along the sidewalk, while others are near the parked vehicles."
+      },
+      {
+        "question": "What types of vehicles are parked on the right side of the street?",
+        "answer": "There are several motorbikes and a small blue vehicle parked on the right side of the street."
+      },
+      {
+        "question": "What is the overall atmosphere of the street scene?",
+        "answer": "The overall atmosphere appears calm and typical of a small urban area. The presence of trees providing shade and the orderly arrangement of shops and vehicles contribute to this serene environment."
+      },
+      {
+        "question": "Are there any trees visible in the image?",
+        "answer": "Yes, there are trees visible on the right side of the street, providing shade to the area."
+      },
+      {
+        "question": "What is the condition of the sidewalk and street?",
+        "answer": "The sidewalk and street appear to be in good condition, with no visible signs of damage or disrepair."
+      },
+      {
+        "question": "Are there any outdoor displays or items outside the shops?",
+        "answer": "Yes, there are various items and displays outside the shops, adding to the vibrant and lively appearance of the street."
+      },
+      {
+        "question": "What time of day does the image appear to be taken?",
+        "answer": "The image appears to be taken during the daytime, as indicated by the bright lighting and shadows cast by the trees and buildings."
+      },
+      {
+        "question": "Is there any indication of the weather conditions in the image?",
+        "answer": "The weather appears to be clear and sunny, as evidenced by the bright lighting and shadows."
+      },
+      {
+        "question": "Are there any other notable features or objects in the image?",
+        "answer": "Notable features include the colorful signs and awnings of the shops, the parked motorbikes and small blue vehicle, and the trees providing shade on the right side of the street."
+      }
+    ],
+    "grounded_caption": "A street scene with several shops lining the left side features colorful signs and awnings, and various items and displays outside the shops. A few people are walking along the sidewalk, and there are some motorbikes and a small blue vehicle parked on the right side of the street. Trees provide shade on the right, and the overall atmosphere appears calm and typical of a small urban area.\n\nNear one of the shop entrances, a <event>disorderly pile</event><bbox>1073 413 1181 521</bbox> of bicycles and possibly other small items or debris clusters around a utility box or signpost, taking up significant space on the narrow sidewalk. Another <event>disorderly pile</event><bbox>828 459 921 510</bbox> consists of a blue vehicle or cart parked on the sidewalk, obstructing pedestrian access. The surrounding area is clear, but the placement is disorganized. Additionally, there is a <event>disorderly pile</event><bbox>385 734 418 808</bbox> of items near another shop entrance, including boxes, bags, and other miscellaneous objects, suggesting a lack of organization and potentially obstructing the pathway. These piles are scattered throughout the commercial area, affecting the flow of foot traffic on a clear, sunny day."
+  },
+  {
+    "image_id": "00000002",
+    "width": 1920,
+    "height": 1080,
+    "source": "egova",
+    "pixel_classes": {},
+    "bboxes": [
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1,
+          1000,
+          270,
+          1080
+        ],
+        "region_description": "A disorderly pile of items, possibly including boxes, bags, or other miscellaneous objects, is located on the sidewalk near the entrance of a building. This pile may obstruct pedestrian movement and could be considered a nuisance or a safety hazard.",
+        "dual_question": "Can you detect the disorderly pile of items on the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "hanging laundry",
+        "type_cn": "\u60ac\u6302\u667e\u6652",
+        "bbox": [
+          559,
+          582,
+          617,
+          655
+        ],
+        "region_description": "A person is hanging laundry outside a building at night. They are standing on a small platform, wearing light-colored clothing, and the laundry is hanging from a horizontal bar attached to the building. The street is quiet with a few parked vehicles, and there are trees and buildings with Chinese signs nearby.",
+        "dual_question": "Can you detect a person hanging laundry outside at night?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1,
+          1000,
+          270,
+          1080
+        ],
+        "region_description": "A disorderly pile of items, possibly including boxes, bags, or other miscellaneous objects, is located on the sidewalk near the entrance of a building. This pile may obstruct pedestrian movement and could be considered a nuisance or a safety hazard.",
+        "dual_question": "Can you detect the disorderly pile of items on the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "hanging laundry",
+        "type_cn": "\u60ac\u6302\u667e\u6652",
+        "bbox": [
+          559,
+          582,
+          617,
+          655
+        ],
+        "region_description": "A person is hanging laundry outside a building at night. They are standing on a small platform, wearing light-colored clothing, and the laundry is hanging from a horizontal bar attached to the building. The street is quiet with a few parked vehicles, and there are trees and buildings with Chinese signs nearby.",
+        "dual_question": "Can you detect a person hanging laundry outside at night?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1,
+          1000,
+          270,
+          1080
+        ],
+        "region_description": "A disorderly pile of items, possibly including boxes, bags, or other miscellaneous objects, is located on the sidewalk near the entrance of a building. This pile may obstruct pedestrian movement and could be considered a nuisance or a safety hazard.",
+        "dual_question": "Can you detect the disorderly pile of items on the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "hanging laundry",
+        "type_cn": "\u60ac\u6302\u667e\u6652",
+        "bbox": [
+          559,
+          582,
+          617,
+          655
+        ],
+        "region_description": "A person is hanging laundry outside a building at night. They are standing on a small platform, wearing light-colored clothing, and the laundry is hanging from a horizontal bar attached to the building. The street is quiet with a few parked vehicles, and there are trees and buildings with Chinese signs nearby.",
+        "dual_question": "Can you detect a person hanging laundry outside at night?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1,
+          1000,
+          270,
+          1080
+        ],
+        "region_description": "A disorderly pile of items, possibly including boxes, bags, or other miscellaneous objects, is located on the sidewalk near the entrance of a building. This pile may obstruct pedestrian movement and could be considered a nuisance or a safety hazard.",
+        "dual_question": "Can you detect the disorderly pile of items on the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "hanging laundry",
+        "type_cn": "\u60ac\u6302\u667e\u6652",
+        "bbox": [
+          559,
+          582,
+          617,
+          655
+        ],
+        "region_description": "A person is hanging laundry outside a building at night. They are standing on a small platform, wearing light-colored clothing, and the laundry is hanging from a horizontal bar attached to the building. The street is quiet with a few parked vehicles, and there are trees and buildings with Chinese signs nearby.",
+        "dual_question": "Can you detect a person hanging laundry outside at night?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1,
+          1000,
+          270,
+          1080
+        ],
+        "region_description": "A disorderly pile of items, possibly including boxes, bags, or other miscellaneous objects, is located on the sidewalk near the entrance of a building. This pile may obstruct pedestrian movement and could be considered a nuisance or a safety hazard.",
+        "dual_question": "Can you detect the disorderly pile of items on the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "hanging laundry",
+        "type_cn": "\u60ac\u6302\u667e\u6652",
+        "bbox": [
+          559,
+          582,
+          617,
+          655
+        ],
+        "region_description": "A person is hanging laundry outside a building at night. They are standing on a small platform, wearing light-colored clothing, and the laundry is hanging from a horizontal bar attached to the building. The street is quiet with a few parked vehicles, and there are trees and buildings with Chinese signs nearby.",
+        "dual_question": "Can you detect a person hanging laundry outside at night?"
+      }
+    ],
+    "image_description": "The image is a black-and-white surveillance camera shot of a street at night. The street is lined with buildings that have various signs and storefronts. There are several vehicles parked along the side of the street, including a small truck and a car. The area is illuminated by streetlights and the lights from the buildings. Trees with dense foliage are visible on the right side of the image, partially obscuring the view. The scene appears quiet and devoid of people.",
+    "question_answer": [
+      {
+        "question": "What time of day does the image appear to be taken?",
+        "answer": "The image appears to be taken at night, as indicated by the darkness and the artificial lighting from streetlights and building lights."
+      },
+      {
+        "question": "What types of vehicles are visible in the image?",
+        "answer": "There are several vehicles visible, including a small truck and a car parked along the side of the street."
+      },
+      {
+        "question": "What is the general condition of the street?",
+        "answer": "The street appears to be quiet and devoid of people, suggesting it might be late at night or early in the morning."
+      },
+      {
+        "question": "Are there any trees visible in the image?",
+        "answer": "Yes, there are trees with dense foliage visible on the right side of the image, partially obscuring the view."
+      },
+      {
+        "question": "What kind of buildings line the street?",
+        "answer": "The buildings lining the street appear to be commercial, with various storefronts and signs."
+      },
+      {
+        "question": "Is the street well-lit?",
+        "answer": "Yes, the street is well-lit by streetlights and the lights from the buildings."
+      },
+      {
+        "question": "Are there any signs of activity or movement in the image?",
+        "answer": "No, there are no signs of activity or movement in the image. The scene appears still and quiet."
+      },
+      {
+        "question": "What is the overall atmosphere of the scene?",
+        "answer": "The overall atmosphere of the scene is calm and quiet, with no visible signs of activity or people."
+      },
+      {
+        "question": "Are there any visible street signs or markers?",
+        "answer": "No, there are no visible street signs or markers in the image."
+      },
+      {
+        "question": "What can be inferred about the location based on the image?",
+        "answer": "The location appears to be a commercial area with various shops and businesses, likely in an urban or suburban setting. The presence of trees suggests it might be a mixed-use area with some greenery."
+      }
+    ],
+    "grounded_caption": "A black-and-white surveillance camera captures a quiet, nocturnal street scene. The street, illuminated by streetlights and the glow from buildings, is lined with structures adorned with various signs and storefronts. Several vehicles, including a small truck and a car, are parked along the curb. On the right side of the frame, trees with dense foliage partially obscure the view.\n\nNear the entrance of one of the buildings, a <event>disorderly pile</event><bbox>1 1000 270 1080</bbox> of items, likely consisting of boxes, bags, and other miscellaneous objects, is scattered on the sidewalk. This pile could pose a nuisance or a safety hazard, potentially obstructing pedestrian movement. \n\nIn another part of the scene, a person is engaged in a domestic activity, <event>hanging laundry</event><bbox>559 582 617 655</bbox> outside a building. They stand on a small platform, dressed in light-colored clothing, as they hang clothes from a horizontal bar attached to the building. The surrounding area remains quiet, with only a few parked vehicles and the presence of trees and buildings with Chinese signs adding to the serene, yet lived-in atmosphere."
+  },
+  {
+    "image_id": "00000003",
+    "width": 1920,
+    "height": 1080,
+    "source": "egova",
+    "pixel_classes": {},
+    "bboxes": [
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          96,
+          281,
+          382,
+          837
+        ],
+        "region_description": "Storefront extension involves placing a small cooler and additional items outside the store, enhancing visibility and accessibility. The cooler displays cold beverages and perishable items, while other products are arranged for easy access, promoting impulse buys. Branded with recognizable logos, these items create an interactive space for pedestrians, increasing foot traffic and sales.",
+        "dual_question": "Can you detect the storefront extension with a cooler and branded items outside?"
+      },
+      {
+        "is_event": 1,
+        "type": "rectangular stall",
+        "type_cn": "\u77e9\u644a",
+        "bbox": [
+          192,
+          591,
+          331,
+          737
+        ],
+        "region_description": "A rectangular stall is located on the sidewalk in front of a store. The stall is covered with a blue and white patterned cloth, protecting items inside from dust or rain. It displays small goods or products, possibly snacks, toys, or miscellaneous items. The stall is next to a red and white vending machine, likely selling cold drinks. Motorbikes are parked nearby, indicating a busy street with high foot and vehicle traffic. The stall operates during the day, as shown by the timestamp from October 5, 2022, at 12:35:56.",
+        "dual_question": "Can you detect the stall on the sidewalk with blue and white cloth?"
+      },
+      {
+        "is_event": 1,
+        "type": "fixed ramp",
+        "type_cn": "\u4e0d\u53ef\u79fb\u52a8\u63a5\u5761",
+        "bbox": [
+          1,
+          837,
+          123,
+          958
+        ],
+        "region_description": "A fixed ramp on the street, likely for assisting people with mobility issues or loading goods. The ramp is short with a slight incline and the area around it is clear.",
+        "dual_question": "Can you detect the short, slightly inclined ramp on the street?"
+      },
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          1853,
+          263,
+          1920,
+          460
+        ],
+        "region_description": "Storefront extension involves placing items or goods outside the store, extending into the sidewalk or street. This practice aims to attract more customers by increasing product visibility and accessibility but can also inconvenience pedestrians and obstruct traffic flow.",
+        "dual_question": "Can you detect items placed outside the store on the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "fixed ramp",
+        "type_cn": "\u4e0d\u53ef\u79fb\u52a8\u63a5\u5761",
+        "bbox": [
+          315,
+          607,
+          393,
+          669
+        ],
+        "region_description": "A small fixed ramp leads up to a storefront, providing easier access for people with mobility issues or facilitating the movement of goods.",
+        "dual_question": "Can you detect the ramp leading up to the storefront?"
+      },
+      {
+        "is_event": 1,
+        "type": "rectangular stall",
+        "type_cn": "\u77e9\u644a",
+        "bbox": [
+          1875,
+          358,
+          1920,
+          451
+        ],
+        "region_description": "A rectangular stall, resembling a small kiosk or stand, is located on the sidewalk near shops. It is likely used for selling goods or providing services to passersby.",
+        "dual_question": "Can you detect the rectangular stall on the sidewalk near shops?"
+      },
+      {
+        "is_event": 1,
+        "type": "hanging billboard",
+        "type_cn": "\u60ac\u6302\u5e7f\u544a\u724c",
+        "bbox": [
+          408,
+          288,
+          462,
+          350
+        ],
+        "region_description": "A hanging billboard is attached to the exterior wall of a building, positioned above the entrance. It is rectangular and likely advertises the business's services or products. The sign has text and possibly graphics or logos, but the specific details are unclear.",
+        "dual_question": "Can you detect the rectangular billboard above the entrance?"
+      },
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          96,
+          281,
+          382,
+          837
+        ],
+        "region_description": "Storefront extension involves placing a small cooler and additional items outside the store, enhancing visibility and accessibility. The cooler displays cold beverages and perishable items, while other products are arranged for easy access, promoting impulse buys. Branded with recognizable logos, these items create an interactive space for pedestrians, increasing foot traffic and sales.",
+        "dual_question": "Can you detect the storefront extension with a cooler and branded items outside?"
+      },
+      {
+        "is_event": 1,
+        "type": "rectangular stall",
+        "type_cn": "\u77e9\u644a",
+        "bbox": [
+          192,
+          591,
+          331,
+          737
+        ],
+        "region_description": "A rectangular stall is located on the sidewalk in front of a store. The stall is covered with a blue and white patterned cloth, protecting items inside from dust or rain. It displays small goods or products, possibly snacks, toys, or miscellaneous items. The stall is next to a red and white vending machine, likely selling cold drinks. Motorbikes are parked nearby, indicating a busy street with high foot and vehicle traffic. The stall operates during the day, as shown by the timestamp from October 5, 2022, at 12:35:56.",
+        "dual_question": "Can you detect the stall on the sidewalk with blue and white cloth?"
+      },
+      {
+        "is_event": 1,
+        "type": "fixed ramp",
+        "type_cn": "\u4e0d\u53ef\u79fb\u52a8\u63a5\u5761",
+        "bbox": [
+          1,
+          837,
+          123,
+          958
+        ],
+        "region_description": "A fixed ramp on the street, likely for assisting people with mobility issues or loading goods. The ramp is short with a slight incline and the area around it is clear.",
+        "dual_question": "Can you detect the short, slightly inclined ramp on the street?"
+      }
+    ],
+    "image_description": "The image shows a street scene captured by a surveillance camera. The street is lined with various shops and businesses, featuring red and white signage. Several motorbikes and scooters are parked along the sidewalk. A person wearing a yellow jacket and helmet is riding a scooter in the foreground. Another individual is standing next to a parked scooter. The street appears to be relatively quiet with a few pedestrians and vehicles in the distance. The overall atmosphere is calm and typical of a commercial area.",
+    "question_answer": [
+      {
+        "question": "What type of vehicles are parked along the sidewalk?",
+        "answer": "Several motorbikes and scooters are parked along the sidewalk."
+      },
+      {
+        "question": "How many people are visible in the image?",
+        "answer": "There are two people visible in the image."
+      },
+      {
+        "question": "What is the person in the yellow jacket doing?",
+        "answer": "The person in the yellow jacket is riding a scooter."
+      },
+      {
+        "question": "What is the person standing next to the parked scooter doing?",
+        "answer": "The person standing next to the parked scooter appears to be stationary, possibly waiting or observing something."
+      },
+      {
+        "question": "Describe the overall atmosphere of the street.",
+        "answer": "The overall atmosphere of the street is calm and typical of a commercial area, with a few pedestrians and vehicles in the distance."
+      },
+      {
+        "question": "What can be inferred about the time of day based on the lighting and shadows?",
+        "answer": "The lighting and shadows suggest it is daytime, likely around midday given the position of the shadows."
+      },
+      {
+        "question": "Are there any shops or businesses visible in the image?",
+        "answer": "Yes, there are various shops and businesses visible along the street."
+      },
+      {
+        "question": "What is the color scheme of the signage on the shops?",
+        "answer": "The signage on the shops features red and white colors."
+      },
+      {
+        "question": "Is the street busy or quiet?",
+        "answer": "The street appears to be relatively quiet."
+      },
+      {
+        "question": "What type of area is depicted in the image?",
+        "answer": "The image depicts a commercial area with various shops and businesses."
+      }
+    ],
+    "grounded_caption": "A street scene captured by a surveillance camera showcases a commercial area lined with various shops and businesses, featuring red and white signage. Several motorbikes and scooters are parked along the sidewalk, and a person wearing a yellow jacket and helmet is riding a scooter in the foreground. Another individual stands next to a parked scooter. The street appears relatively quiet with a few pedestrians and vehicles in the distance, creating a calm atmosphere typical of a commercial area.\n\n<event>Storefront extension</event><bbox>96 281 382 837</bbox> places a small cooler and additional items outside the store, enhancing visibility and accessibility. The cooler displays cold beverages and perishable items, while other products are arranged for easy access, promoting impulse buys. Branded with recognizable logos, these items create an interactive space for pedestrians, increasing foot traffic and sales.\n\nNearby, a <event>rectangular stall</event><bbox>192 591 331 737</bbox> is located on the sidewalk in front of a store. The stall is covered with a blue and white patterned cloth, protecting items inside from dust or rain. It displays small goods or products, possibly snacks, toys, or miscellaneous items. The stall is next to a red and white vending machine, likely selling cold drinks. Motorbikes are parked nearby, indicating a busy street with high foot and vehicle traffic.\n\nA <event>fixed ramp</event><bbox>1 837 123 958</bbox> on the street assists people with mobility issues or loading goods. The ramp is short with a slight incline and the area around it is clear.\n\nOn the opposite side of the street, another <event>storefront extension</event><bbox>1853 263 1920 460</bbox> extends items or goods outside the store, increasing product visibility and accessibility. This practice aims to attract more customers but can also inconvenience pedestrians and obstruct traffic flow.\n\nA smaller <event>fixed ramp</event><bbox>315 607 393 669</bbox> leads up to a storefront, providing easier access for people with mobility issues or facilitating the movement of goods.\n\nNear the shops, a <event>rectangular stall</event><bbox>1875 358 1920 451</bbox> resembles a small kiosk or stand, likely used for selling goods or providing services to passersby.\n\nAbove the entrance of one of the buildings, a <event>hanging billboard</event><bbox>408 288 462 350</bbox> is attached to the exterior wall. It is rectangular and likely advertises the business's services or products, though the specific details are unclear."
+  },
+  {
+    "image_id": "00000004",
+    "width": 1920,
+    "height": 1080,
+    "source": "egova",
+    "pixel_classes": {},
+    "bboxes": [
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          106,
+          285,
+          390,
+          827
+        ],
+        "region_description": "A storefront extension at night features a small cart or stand outside the store. It includes a red and white sign with Chinese characters and an image of a product, likely a beverage or snack. The store has large glass windows and doors, with items and posters visible inside. The setting suggests a commercial area with wet pavement from rain.",
+        "dual_question": "Can you detect the storefront with a cart, red and white sign, and large glass windows?"
+      },
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          1775,
+          250,
+          1920,
+          442
+        ],
+        "region_description": "A storefront extends its operations onto the sidewalk at night. A person stands outside, possibly a vendor or customer. The area is well-lit with visible signs and advertisements.",
+        "dual_question": "Can you detect the well-lit storefront with signs and a person outside?"
+      },
+      {
+        "is_event": 1,
+        "type": "rectangular stall",
+        "type_cn": "\u77e9\u644a",
+        "bbox": [
+          194,
+          590,
+          334,
+          734
+        ],
+        "region_description": "A rectangular stall on the sidewalk, red and white with a glass display case, likely selling snacks or beverages.",
+        "dual_question": "Can you detect the red and white stall with a glass display?"
+      },
+      {
+        "is_event": 1,
+        "type": "fixed ramp",
+        "type_cn": "\u4e0d\u53ef\u79fb\u52a8\u63a5\u5761",
+        "bbox": [
+          1,
+          837,
+          123,
+          958
+        ],
+        "region_description": "A motorcycle is parked on the side of a wet street near a storefront with various signs and advertisements. The area is well-lit by shop and streetlights, creating reflections on the wet pavement. Fixed ramp is present in the scene.",
+        "dual_question": "Can you detect the motorcycle parked near the well-lit storefront?"
+      },
+      {
+        "is_event": 1,
+        "type": "rectangular stall",
+        "type_cn": "\u77e9\u644a",
+        "bbox": [
+          1819,
+          338,
+          1902,
+          442
+        ],
+        "region_description": "A rectangular stall is located on the right side of the street, near the edge of the sidewalk. It is a small, enclosed structure, possibly used for selling goods or food. The stall is illuminated by the surrounding streetlights and shop lights, making it visible in the night. The area around the stall is relatively empty, with no people or vehicles nearby.",
+        "dual_question": "Can you detect the small, enclosed stall on the right, near the sidewalk?"
+      },
+      {
+        "is_event": 1,
+        "type": "hanging billboard",
+        "type_cn": "\u60ac\u6302\u5e7f\u544a\u724c",
+        "bbox": [
+          408,
+          288,
+          462,
+          350
+        ],
+        "region_description": "A hanging billboard is attached to the exterior wall of a building. The rectangular billboard's content is unclear due to the distance and camera angle. It likely displays an advertisement or information related to the business.",
+        "dual_question": "Can you detect the hanging billboard on the building's exterior?"
+      },
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          106,
+          285,
+          390,
+          827
+        ],
+        "region_description": "A storefront extension at night features a small cart or stand outside the store. It includes a red and white sign with Chinese characters and an image of a product, likely a beverage or snack. The store has large glass windows and doors, with items and posters visible inside. The setting suggests a commercial area with wet pavement from rain.",
+        "dual_question": "Can you detect the storefront with a cart, red and white sign, and large glass windows?"
+      },
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          1775,
+          250,
+          1920,
+          442
+        ],
+        "region_description": "A storefront extends its operations onto the sidewalk at night. A person stands outside, possibly a vendor or customer. The area is well-lit with visible signs and advertisements.",
+        "dual_question": "Can you detect the well-lit storefront with signs and a person outside?"
+      },
+      {
+        "is_event": 1,
+        "type": "rectangular stall",
+        "type_cn": "\u77e9\u644a",
+        "bbox": [
+          194,
+          590,
+          334,
+          734
+        ],
+        "region_description": "A rectangular stall on the sidewalk, red and white with a glass display case, likely selling snacks or beverages.",
+        "dual_question": "Can you detect the red and white stall with a glass display?"
+      },
+      {
+        "is_event": 1,
+        "type": "fixed ramp",
+        "type_cn": "\u4e0d\u53ef\u79fb\u52a8\u63a5\u5761",
+        "bbox": [
+          1,
+          837,
+          123,
+          958
+        ],
+        "region_description": "A motorcycle is parked on the side of a wet street near a storefront with various signs and advertisements. The area is well-lit by shop and streetlights, creating reflections on the wet pavement. Fixed ramp is present in the scene.",
+        "dual_question": "Can you detect the motorcycle parked near the well-lit storefront?"
+      }
+    ],
+    "image_description": "The image shows a street scene at night, captured by a surveillance camera. The street is wet, likely from recent rain, and is illuminated by bright lights from the surrounding shops. Several motorcycles and scooters are parked along the sidewalk. The storefronts are brightly lit, with various signs and advertisements visible. The area appears to be a commercial district, with a mix of shops and eateries. The overall atmosphere is quiet, with no visible pedestrians or moving vehicles.",
+    "question_answer": [
+      {
+        "question": "What is the weather condition in the image?",
+        "answer": "The street is wet, indicating that it has recently rained."
+      },
+      {
+        "question": "What time of day does the image appear to be taken?",
+        "answer": "The image appears to be taken at night, as indicated by the dark sky and the bright lights from the shops."
+      },
+      {
+        "question": "What types of vehicles are visible in the image?",
+        "answer": "Several motorcycles and scooters are parked along the sidewalk."
+      },
+      {
+        "question": "What is the general atmosphere of the area depicted in the image?",
+        "answer": "The area has a quiet atmosphere, with no visible pedestrians or moving vehicles."
+      },
+      {
+        "question": "What kind of establishments are present in the image?",
+        "answer": "The image shows a commercial district with a mix of shops and eateries."
+      },
+      {
+        "question": "How is the street illuminated?",
+        "answer": "The street is illuminated by bright lights from the surrounding shops."
+      },
+      {
+        "question": "Are there any moving vehicles in the image?",
+        "answer": "No, there are no moving vehicles visible in the image."
+      },
+      {
+        "question": "What is the condition of the sidewalk in the image?",
+        "answer": "The sidewalk is wet, likely from recent rain."
+      },
+      {
+        "question": "What is the overall setting of the image?",
+        "answer": "The overall setting is a commercial street at night, with wet conditions and brightly lit storefronts."
+      },
+      {
+        "question": "Are there any people visible in the image?",
+        "answer": "No, there are no visible pedestrians in the image."
+      }
+    ],
+    "grounded_caption": "A street scene at night, captured by a surveillance camera, depicts a wet, recently rained-on commercial district illuminated by bright lights from surrounding shops. Several motorcycles and scooters are parked along the sidewalk, reflecting the light from the shops and streetlights. The storefronts are brightly lit, with various signs and advertisements visible, suggesting a mix of shops and eateries. The overall atmosphere is quiet, with no visible pedestrians or moving vehicles.\n\n<event>storefront extension</event><bbox>106 285 390 827</bbox> A storefront extension features a small cart or stand outside the store, including a red and white sign with Chinese characters and an image of a product, likely a beverage or snack. The store has large glass windows and doors, with items and posters visible inside. \n\n<event>storefront extension</event><bbox>1775 250 1920 442</bbox> Another storefront extends its operations onto the sidewalk, where a person stands outside, possibly a vendor or customer. The area is well-lit with visible signs and advertisements.\n\n<event>rectangular stall</event><bbox>194 590 334 734</bbox> A rectangular stall on the sidewalk, red and white with a glass display case, likely sells snacks or beverages.\n\n<event>fixed ramp</event><bbox>1 837 123 958</bbox> A motorcycle is parked on the side of the wet street near a storefront with various signs and advertisements, creating reflections on the wet pavement. A fixed ramp is present in the scene.\n\n<event>rectangular stall</event><bbox>1819 338 1902 442</bbox> A small, enclosed rectangular stall is located on the right side of the street, near the edge of the sidewalk. It is illuminated by the surrounding streetlights and shop lights, making it visible in the night. The area around the stall is relatively empty.\n\n<hanging billboard><bbox>408 288 462 350</bbox> A hanging billboard is attached to the exterior wall of a building. The rectangular billboard's content is unclear due to the distance and camera angle, but it likely displays an advertisement or information related to the business."
+  },
+  {
+    "image_id": "00000005",
+    "width": 1920,
+    "height": 1080,
+    "source": "egova",
+    "pixel_classes": {},
+    "bboxes": [
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          1,
+          341,
+          1920,
+          1080
+        ],
+        "region_description": "Storefront extension involves the restaurant setting up outdoor seating with red plastic tables and chairs, actively serving customers, and creating an inviting dining environment. This practice extends the business beyond the physical storefront, often onto the sidewalk, enhancing the dining experience and accommodating more patrons.",
+        "dual_question": "Can you detect the restaurant's outdoor seating with red tables and chairs?"
+      },
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          1195,
+          289,
+          1651,
+          607
+        ],
+        "region_description": "The storefront extension involves using the sidewalk in front of a busy store to expand its operational area. Tables and chairs are set up, decorated with red and yellow ribbons and flowers. People are seated, enjoying meals or drinks, and others are standing or walking around. The extension creates a lively, social atmosphere and attracts customers, making the street more vibrant and engaging.",
+        "dual_question": "Can you detect tables and chairs on the sidewalk with decorations and people?"
+      },
+      {
+        "is_event": 1,
+        "type": "rectangular stall",
+        "type_cn": "\u77e9\u644a",
+        "bbox": [
+          1527,
+          623,
+          1805,
+          876
+        ],
+        "region_description": "A rectangular stall, likely a food vendor, features a grill and cooking utensils. A person stands behind, preparing food. The stall has shelves and containers for ingredients or condiments.",
+        "dual_question": "Can you detect the food vendor stall with a grill and utensils?"
+      },
+      {
+        "is_event": 1,
+        "type": "orderly pile",
+        "type_cn": "\u6709\u5e8f\u5806\u79ef",
+        "bbox": [
+          1289,
+          431,
+          1603,
+          588
+        ],
+        "region_description": "An \"orderly pile\" of bicycles is neatly arranged, likely in rows or columns, in a designated parking area. Multiple bicycles of various types and sizes are present, suggesting the area is used by different people. The organized arrangement maximizes space and ensures secure parking, fitting into a bustling area with nearby shops and restaurants.",
+        "dual_question": "Can you detect the neatly arranged pile of bicycles in the parking area?"
+      },
+      {
+        "is_event": 1,
+        "type": "rectangular stall",
+        "type_cn": "\u77e9\u644a",
+        "bbox": [
+          1650,
+          519,
+          1850,
+          756
+        ],
+        "region_description": "A rectangular stall on a busy street at night, with a person behind it. The stall has food preparation or serving equipment, suggesting it's a food or drink stand. People are walking by and sitting at nearby tables, contributing to a lively atmosphere.",
+        "dual_question": "Can you detect the food stall on the busy street at night?"
+      },
+      {
+        "is_event": 1,
+        "type": "orderly pile",
+        "type_cn": "\u6709\u5e8f\u5806\u79ef",
+        "bbox": [
+          1209,
+          366,
+          1489,
+          474
+        ],
+        "region_description": "An orderly pile of chairs and tables, neatly stacked to save space and keep the outdoor dining area tidy at the end of the day.",
+        "dual_question": "Can you detect the neatly stacked chairs and tables?"
+      },
+      {
+        "is_event": 1,
+        "type": "disorderly pile",
+        "type_cn": "\u65e0\u5e8f\u5806\u79ef",
+        "bbox": [
+          1584,
+          449,
+          1655,
+          586
+        ],
+        "region_description": "A disorderly pile of red plastic chairs stacked haphazardly near a shop or restaurant entrance, likely stored when not in use.",
+        "dual_question": "Can you detect the messy pile of red chairs near the entrance?"
+      },
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          620,
+          202,
+          702,
+          293
+        ],
+        "region_description": "Storefront extension involves outdoor seating with red plastic chairs and tables, allowing customers to eat, drink, and socialize outside. This setup integrates with pedestrian traffic, enhances store visibility, and creates a lively, inviting atmosphere.",
+        "dual_question": "Can you detect the outdoor seating with red chairs and tables?"
+      },
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          1,
+          341,
+          1920,
+          1080
+        ],
+        "region_description": "Storefront extension involves the restaurant setting up outdoor seating with red plastic tables and chairs, actively serving customers, and creating an inviting dining environment. This practice extends the business beyond the physical storefront, often onto the sidewalk, enhancing the dining experience and accommodating more patrons.",
+        "dual_question": "Can you detect the restaurant's outdoor seating with red tables and chairs?"
+      },
+      {
+        "is_event": 1,
+        "type": "storefront extension",
+        "type_cn": "\u51fa\u5e97",
+        "bbox": [
+          1195,
+          289,
+          1651,
+          607
+        ],
+        "region_description": "The storefront extension involves using the sidewalk in front of a busy store to expand its operational area. Tables and chairs are set up, decorated with red and yellow ribbons and flowers. People are seated, enjoying meals or drinks, and others are standing or walking around. The extension creates a lively, social atmosphere and attracts customers, making the street more vibrant and engaging.",
+        "dual_question": "Can you detect tables and chairs on the sidewalk with decorations and people?"
+      }
+    ],
+    "image_description": "The image shows a bustling street scene at night, captured by a surveillance camera. The area is well-lit with various shops and eateries lining the street. Red plastic chairs and tables are arranged outside, where several people are seated, enjoying their meals. A few individuals are walking around or standing near the tables. In the background, there is a staircase leading to an elevated walkway, and more people can be seen further down the street. The scene is lively, with a mix of pedestrians and parked motorcycles.",
+    "question_answer": [
+      {
+        "question": "What time of day does the image appear to be taken?",
+        "answer": "The image appears to be taken at night, as indicated by the artificial lighting and the dark sky."
+      },
+      {
+        "question": "What type of furniture is used for seating outside the shops?",
+        "answer": "Red plastic chairs and tables are used for seating outside the shops."
+      },
+      {
+        "question": "How many people are seated at the tables outside?",
+        "answer": "There are several people seated at the tables outside, but the exact number is not specified."
+      },
+      {
+        "question": "What is the main activity of the people in the image?",
+        "answer": "The main activity of the people in the image is enjoying their meals at the outdoor tables."
+      },
+      {
+        "question": "Are there any vehicles visible in the image?",
+        "answer": "Yes, there are parked motorcycles visible in the image."
+      },
+      {
+        "question": "What is the general atmosphere of the scene?",
+        "answer": "The general atmosphere of the scene is lively and bustling, with people walking around, sitting at tables, and engaging in various activities."
+      },
+      {
+        "question": "Is there any indication of the type of businesses present in the image?",
+        "answer": "Yes, there are various shops and eateries lining the street, suggesting a commercial area."
+      },
+      {
+        "question": "Are there any stairs or elevated walkways visible in the image?",
+        "answer": "Yes, there is a staircase leading to an elevated walkway visible in the background of the image."
+      },
+      {
+        "question": "How many people are walking or standing near the tables?",
+        "answer": "There are a few individuals walking around or standing near the tables, but the exact number is not specified."
+      },
+      {
+        "question": "What is the overall setting of the image?",
+        "answer": "The overall setting of the image is a bustling street scene at night, with various shops and eateries, and people enjoying their meals and walking around."
+      }
+    ],
+    "grounded_caption": "A bustling street scene at night, well-lit with various shops and eateries lining the street. Red plastic chairs and tables are arranged outside, where several people are seated, enjoying their meals. A few individuals are walking around or standing near the tables. In the background, there is a staircase leading to an elevated walkway, and more people can be observed further down the street. The scene is lively, with a mix of pedestrians and parked motorcycles.\n\n<event>storefront extension</event><bbox>1 341 1920 1080</bbox> The restaurant has set up outdoor seating with red plastic tables and chairs, actively serving customers and creating an inviting dining environment. This practice extends the business beyond the physical storefront, often onto the sidewalk, enhancing the dining experience and accommodating more patrons.\n\n<event>storefront extension</event><bbox>1195 289 1651 607</bbox> Another storefront extension uses the sidewalk in front of a busy store to expand its operational area. Tables and chairs are set up, decorated with red and yellow ribbons and flowers. People are seated, enjoying meals or drinks, and others are standing or walking around. The extension creates a lively, social atmosphere and attracts customers, making the street more vibrant and engaging.\n\n<event>rectangular stall</event><bbox>1527 623 1805 876</bbox> A rectangular stall, likely a food vendor, features a grill and cooking utensils. A person stands behind, preparing food. The stall has shelves and containers for ingredients or condiments.\n\n<event>orderly pile</event><bbox>1289 431 1603 588</bbox> An \"orderly pile\" of bicycles is neatly arranged, likely in rows or columns, in a designated parking area. Multiple bicycles of various types and sizes are present, suggesting the area is used by different people. The organized arrangement maximizes space and ensures secure parking, fitting into a bustling area with nearby shops and restaurants.\n\n<event>rectangular stall</event><bbox>1650 519 1850 756</bbox> Another rectangular stall on a busy street at night, with a person behind it. The stall has food preparation or serving equipment, suggesting it's a food or drink stand. People are walking by and sitting at nearby tables, contributing to a lively atmosphere.\n\n<event>orderly pile</event><bbox>1209 366 1489 474</bbox> An orderly pile of chairs and tables, neatly stacked to save space and keep the outdoor dining area tidy at the end of the day.\n\n<event>disorderly pile</event><bbox>1584 449 1655 586</bbox> A disorderly pile of red plastic chairs stacked haphazardly near a shop or restaurant entrance, likely stored when not in use.\n\n<event>storefront extension</event><bbox>620 202 702 293</bbox> Another storefront extension involves outdoor seating with red plastic chairs and tables, allowing customers to eat, drink, and socialize outside. This setup integrates with pedestrian traffic, enhances store visibility, and creates a lively, inviting atmosphere."
+  }
+]
